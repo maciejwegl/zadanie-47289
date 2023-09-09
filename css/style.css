@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+section {
+    margin: auto;
+    max-width: 1476px;
+    height: 522px;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3vw;
+    color: #0000ff
+
+}
+
+article {
+    font-size: 2vw;
+    padding: 40px 50px 0px 10px;
+
+}
+
+.red-text {
+    color: #ff0000;
+}
